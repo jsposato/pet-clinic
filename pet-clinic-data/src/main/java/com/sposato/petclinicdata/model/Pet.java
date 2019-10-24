@@ -1,4 +1,4 @@
-package com.sposato.petclinicweb.model;
+package com.sposato.petclinicdata.model;
 
 import java.time.LocalDate;
 

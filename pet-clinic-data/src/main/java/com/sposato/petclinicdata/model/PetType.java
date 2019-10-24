@@ -1,4 +1,4 @@
-package com.sposato.petclinicweb.model;
+package com.sposato.petclinicdata.model;
 
 public class PetType {
 
