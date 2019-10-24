@@ -1,4 +1,4 @@
-package com.sposato.petclinic.model;
+package com.sposato.petclinicweb.model;
 
 
 public class Person {

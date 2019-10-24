@@ -1,4 +1,4 @@
-package com.sposato.petclinic;
+package com.sposato.petclinicweb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

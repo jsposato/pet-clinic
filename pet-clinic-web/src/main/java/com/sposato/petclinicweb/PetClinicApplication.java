@@ -1,4 +1,4 @@
-package com.sposato.petclinic;
+package com.sposato.petclinicweb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
